@@ -1,8 +1,8 @@
 
 {
   "name": "react-native-react-native-crypto-bridge",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "node style crypto on the frontend, swift preprocessed with objective c headers for xcode testing on the back end, in the future potentially a buffer module provided as well ios only",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "Kielan Lemons",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
